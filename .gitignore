@@ -1,0 +1,13 @@
+# Ignore all files and directories
+/*
+
+# Directories
+!/hypr/
+!/kitty/
+!/waybar/
+
+# Git ignore
+!.gitignore
+
+# README
+!README.md
