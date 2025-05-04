@@ -18,23 +18,20 @@
 "margin-right": 6,
 "margin-top": 2,
 
-"modules-left": [	
-	"idle_inhibitor", 
-	"group/mobo_drawer",
-	"hyprland/workspaces#rw",
-	"tray",
-	"mpris", 
+"modules-left": [ 
+	// "group/mobo_drawer",
+	"hyprland/workspaces#numbers", 
 	],
     
 "modules-center": [
-	"clock#2",
-	"custom/swaync",
+	"hyprland/window",
 	],
     
 "modules-right": [
-	"hyprland/window",  
+	"clock#6",  
 	"battery",
- 	"group/audio", 
+	"group/audio", 
+	"network",
 	"custom/power",
 	],
 }
