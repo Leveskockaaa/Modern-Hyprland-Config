@@ -7,13 +7,12 @@
 
 window#waybar {
   border: solid;
-  border-top: 0px;
-  border-bottom: 0px;
+  border-top: 2px;
+  border-bottom: 2px;
   color: #ffffff;
-  font-family: FontAwesome, Meslo LGS Bold NF;
   font-weight: Bold;
   letter-spacing: 0.5px;
-  /*font-family: "JetBrainsMono Nerd Font,JetBrainsMono NF";*/
+  font-family: "JetBrainsMono Nerd Font,JetBrainsMono NF";
   background: rgba(0, 0, 0, 0);
   transition-property: background-color;
   transition-duration: .5s;
@@ -21,7 +20,7 @@ window#waybar {
 
 /*-----module groups----*/
 .modules-left {
-
+	
 }
 
 .modules-center {
@@ -60,7 +59,7 @@ window#waybar {
 
 #workspaces button.active {
   /*border-bottom: solid 2px @active;*/
-  background-color: rgba(203, 166, 247, 0.85);
+  background-color: rgba(237, 135, 150, 0.85);
   border-radius: 20px;
   margin: 0px;
   min-width: 30px;

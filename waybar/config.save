@@ -18,7 +18,8 @@
 "margin-right": 6,
 "margin-top": 2,
 
-"modules-left": [
+"modules-left": [ 
+	// "group/mobo_drawer",
 	"hyprland/workspaces#numbers", 
 	],
     
